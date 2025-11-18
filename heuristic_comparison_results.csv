@@ -1,0 +1,121 @@
+Heuristic,Epoch,Success,Moves,Battery_Used,Recharges,Backtracks,Radiation_Encounters,Trap_Encounters,Nodes_Expanded,Final_Battery,Samples_Collected
+Manhattan,1,False,17,90,0,0,0,0,431,10.0,0
+Manhattan,2,False,13,95,0,3,3,0,1195,5.0,0
+Manhattan,3,False,16,85,0,0,0,0,433,15.0,0
+Manhattan,4,False,16,90,0,0,0,0,442,10.0,0
+Manhattan,5,False,28,155,1,0,0,0,434,10.0,0
+Manhattan,6,False,18,90,0,0,0,0,434,10.0,0
+Manhattan,7,False,17,90,0,0,0,0,430,10.0,0
+Manhattan,8,False,15,90,0,0,0,0,438,10.0,0
+Manhattan,9,False,16,90,0,0,0,0,437,10.0,0
+Manhattan,10,False,1,5,0,0,0,0,444,95.0,999
+Manhattan,11,False,16,90,0,0,0,0,432,10.0,0
+Manhattan,12,False,8,100,0,6,6,0,2568,0.0,0
+Manhattan,13,False,12,110,1,5,5,0,2095,10.0,0
+Manhattan,14,False,13,90,0,0,0,0,430,10.0,0
+Manhattan,15,False,18,90,0,0,0,0,426,10.0,0
+Manhattan,16,False,13,70,0,0,0,0,420,30.0,987
+Manhattan,17,False,35,195,2,0,0,0,430,10.0,0
+Manhattan,18,False,8,45,0,0,0,0,427,55.0,992
+Manhattan,19,False,15,90,0,0,0,0,428,10.0,0
+Manhattan,20,False,15,90,0,0,0,0,428,10.0,0
+Manhattan,21,False,3,15,0,0,0,0,432,85.0,997
+Manhattan,22,False,11,55,0,0,0,0,423,45.0,989
+Manhattan,23,False,2,10,0,0,0,0,420,90.0,998
+Manhattan,24,False,15,90,0,0,0,0,444,10.0,0
+Manhattan,25,False,1,20,0,0,0,0,432,80.0,0
+Manhattan,26,False,18,95,1,0,0,0,425,10.0,0
+Manhattan,27,False,16,85,0,0,0,0,431,15.0,0
+Manhattan,28,False,14,90,0,0,0,0,425,10.0,0
+Manhattan,29,False,6,90,0,4,0,4,1748,10.0,0
+Manhattan,30,False,15,85,0,0,0,0,434,15.0,0
+Euclidean,1,False,15,90,0,0,0,0,438,10.0,0
+Euclidean,2,False,14,75,0,0,0,0,435,25.0,986
+Euclidean,3,False,17,95,0,0,0,0,441,5.0,0
+Euclidean,4,False,14,85,0,1,0,1,844,15.0,0
+Euclidean,5,False,16,90,0,0,0,0,447,10.0,0
+Euclidean,6,False,10,90,0,4,4,0,1671,10.0,0
+Euclidean,7,False,17,90,0,0,0,0,439,10.0,0
+Euclidean,8,False,27,150,2,0,0,0,435,10.0,0
+Euclidean,9,False,17,95,0,0,0,0,421,5.0,0
+Euclidean,10,False,18,100,0,1,1,0,447,0.0,0
+Euclidean,11,False,3,20,0,0,0,0,433,80.0,997
+Euclidean,12,False,1,15,0,0,0,0,441,85.0,0
+Euclidean,13,False,15,90,0,0,0,0,414,10.0,0
+Euclidean,14,False,37,200,3,0,0,0,410,10.0,0
+Euclidean,15,False,17,90,0,0,0,0,432,10.0,0
+Euclidean,16,False,11,95,0,4,4,0,1688,5.0,0
+Euclidean,17,False,16,95,0,0,0,0,435,5.0,0
+Euclidean,18,False,16,90,0,0,0,0,422,10.0,0
+Euclidean,19,False,13,65,0,0,0,0,443,35.0,987
+Euclidean,20,False,17,100,1,0,0,0,424,10.0,0
+Euclidean,21,False,17,90,0,0,0,0,417,10.0,0
+Euclidean,22,False,16,90,0,0,0,0,418,10.0,0
+Euclidean,23,False,10,55,0,0,0,0,443,45.0,990
+Euclidean,24,False,9,90,0,4,4,0,1764,10.0,0
+Euclidean,25,False,18,90,0,0,0,0,433,10.0,0
+Euclidean,26,False,16,90,0,0,0,0,436,10.0,0
+Euclidean,27,False,14,90,0,0,0,0,431,10.0,0
+Euclidean,28,False,2,10,0,0,0,0,431,90.0,998
+Euclidean,29,False,18,90,0,0,0,0,431,10.0,0
+Euclidean,30,False,16,90,0,0,0,0,411,10.0,0
+Chebyshev,1,False,16,90,0,0,0,0,425,10.0,0
+Chebyshev,2,False,1,15,0,0,0,0,436,85.0,0
+Chebyshev,3,False,18,90,0,0,0,0,419,10.0,0
+Chebyshev,4,False,29,160,2,0,0,0,435,30.0,969
+Chebyshev,5,False,32,185,2,0,0,0,442,10.0,0
+Chebyshev,6,False,17,90,0,0,0,0,431,10.0,0
+Chebyshev,7,False,18,90,0,0,0,0,432,10.0,0
+Chebyshev,8,False,15,80,0,0,0,0,428,20.0,0
+Chebyshev,9,False,10,60,0,0,0,0,423,40.0,990
+Chebyshev,10,False,16,90,0,0,0,0,437,10.0,0
+Chebyshev,11,False,21,110,2,0,0,0,423,70.0,977
+Chebyshev,12,False,17,90,0,0,0,0,421,10.0,0
+Chebyshev,13,False,17,85,0,0,0,0,446,15.0,983
+Chebyshev,14,False,16,85,0,0,0,0,423,15.0,0
+Chebyshev,15,False,16,90,0,0,0,0,428,10.0,0
+Chebyshev,16,False,20,150,1,4,4,0,1701,10.0,0
+Chebyshev,17,False,16,85,0,0,0,0,431,15.0,984
+Chebyshev,18,False,6,35,0,0,0,0,437,65.0,994
+Chebyshev,19,False,16,90,0,0,0,0,434,10.0,0
+Chebyshev,20,False,18,90,0,0,0,0,437,10.0,0
+Chebyshev,21,False,1,5,0,0,0,0,431,95.0,999
+Chebyshev,22,False,21,115,1,0,0,0,432,10.0,0
+Chebyshev,23,False,7,100,0,4,0,4,1752,0.0,0
+Chebyshev,24,False,17,90,0,0,0,0,430,10.0,0
+Chebyshev,25,False,18,90,0,0,0,0,422,10.0,0
+Chebyshev,26,False,8,90,0,5,5,0,2225,10.0,0
+Chebyshev,27,False,4,20,0,0,0,0,429,80.0,996
+Chebyshev,28,False,6,35,0,0,0,0,420,65.0,994
+Chebyshev,29,False,16,90,0,0,0,0,436,10.0,0
+Chebyshev,30,False,17,90,0,0,0,0,446,10.0,0
+Weighted Euclidean,1,False,8,100,0,6,6,0,2580,0.0,0
+Weighted Euclidean,2,False,7,90,0,4,4,0,1751,10.0,0
+Weighted Euclidean,3,False,19,100,1,0,0,0,435,10.0,0
+Weighted Euclidean,4,False,17,90,0,0,0,0,437,10.0,0
+Weighted Euclidean,5,False,17,90,0,0,0,0,416,10.0,0
+Weighted Euclidean,6,False,17,90,0,0,0,0,440,10.0,0
+Weighted Euclidean,7,False,17,90,0,0,0,0,437,10.0,0
+Weighted Euclidean,8,False,4,20,0,0,0,0,432,80.0,996
+Weighted Euclidean,9,False,17,90,0,0,0,0,427,10.0,0
+Weighted Euclidean,10,False,4,20,0,0,0,0,431,80.0,996
+Weighted Euclidean,11,False,29,155,2,0,0,0,435,10.0,0
+Weighted Euclidean,12,False,15,90,0,0,0,0,411,10.0,0
+Weighted Euclidean,13,False,16,90,0,0,0,0,434,10.0,0
+Weighted Euclidean,14,False,9,45,1,0,0,0,437,70.0,990
+Weighted Euclidean,15,False,17,90,0,0,0,0,429,10.0,0
+Weighted Euclidean,16,False,31,180,1,0,0,0,443,10.0,0
+Weighted Euclidean,17,False,16,80,1,0,0,0,438,85.0,983
+Weighted Euclidean,18,False,15,90,0,0,0,0,446,10.0,0
+Weighted Euclidean,19,False,16,90,0,0,0,0,447,10.0,0
+Weighted Euclidean,20,False,18,100,1,0,0,0,435,5.0,0
+Weighted Euclidean,21,False,16,90,0,0,0,0,433,10.0,0
+Weighted Euclidean,22,False,17,90,0,0,0,0,431,10.0,0
+Weighted Euclidean,23,False,7,95,0,5,5,0,2205,5.0,0
+Weighted Euclidean,24,False,5,25,0,0,0,0,420,75.0,995
+Weighted Euclidean,25,False,16,90,0,0,0,0,435,10.0,0
+Weighted Euclidean,26,False,8,40,1,0,0,0,433,90.0,991
+Weighted Euclidean,27,True,41,220,3,0,0,0,427,35.0,0
+Weighted Euclidean,28,False,17,90,0,0,0,0,431,10.0,0
+Weighted Euclidean,29,False,17,90,0,0,0,0,431,10.0,0
+Weighted Euclidean,30,False,17,90,0,0,0,0,417,10.0,0
